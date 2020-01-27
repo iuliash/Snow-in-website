@@ -7,7 +7,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#box {
+  position: fixed;
+}
+.snowflake{
+  object-fit: cover;
+  transition: all;
+}
+#some-content {
+  width: 80vw;
+  height: 2000px;
+}
+
+.logo_img {
+  height: 4vw;
+  width: 16vw;
+  object-fit: cover;
 }
