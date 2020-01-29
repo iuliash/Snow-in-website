@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 *  Snow stop after logo unhover. Stopping: snowflakes continue to fall down, but new snowflakes does not apper on top of the screen.
 
-*  Designer should be able easily change snowflake images.
+*  Designer be able easily change snowflake images.
